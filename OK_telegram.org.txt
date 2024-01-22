@@ -248,3 +248,21 @@ vless://f1bbb69e-4938-4df0-b997-7c26d0a61ba9@5.9.138.249:8080?type=ws&allowInsec
 vless://f3a4c269-e58a-48c8-ba00-f5a9cd7e0442@65.108.85.65:80?type=ws&allowInsecure=1&host=telegram.org&path=%2FTelegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT&ed=2048&eh=Sec-Websocket-Protocol&fp=firefox#🇫🇮 Finland
 vless://f5ed6607-7a2f-4f0b-9522-557d1b25f59e@146.190.89.218:59193?security=none&type=ws&allowInsecure=1&host=telegram.org&path=%2FFREE-not_for_sale+%28%40z_z_z_zz_z%29Tharuwa#🇸🇬 Singapore
 vless://turboo-server@65.21.227.247:2095?security=&allowInsecure=1&fp=firefox&type=ws&path=/&host=telegram.org&encryption=none#🇫🇮 Finland
+trojan://1bede996-c475-440b-a492-9cd57cbd3939@172.104.63.35:443?security=tls&allowInsecure=1&sni=telegram.org#🇸🇬 Singapore
+trojan://27876_t7d7f4e3f@23.142.200.175:443/?type=tcp&security=tls&allowInsecure=1&sni=telegram.org#🇺🇸 United States
+trojan://5bae27f5-3b8e-48f3-b91f-30fc680ea78f@103.154.62.22:443/?type=tcp&security=tls&allowInsecure=1&sni=telegram.org#🇻🇳 Vietnam
+trojan://5bae27f5-3b8e-48f3-b91f-30fc680ea78f@103.154.63.16:443/?type=tcp&security=tls&allowInsecure=1&sni=telegram.org#🇻🇳 Vietnam
+trojan://94744160-abe9-44ca-b085-0f6994e1944e@18.180.193.232:567?security=tls&allowInsecure=1&sni=telegram.org#🇯🇵 Japan
+trojan://94744160-abe9-44ca-b085-0f6994e1944e@52.195.13.70:567?security=tls&allowInsecure=1&sni=telegram.org#🇯🇵 Japan
+trojan://94744160-abe9-44ca-b085-0f6994e1944e@a22.zgc.su:567?security=tls&allowInsecure=1&sni=telegram.org#🇯🇵 Japan
+trojan://94744160-abe9-44ca-b085-0f6994e1944e@a4.zgc.su:567?security=tls&allowInsecure=1&sni=telegram.org#🇯🇵 Japan
+trojan://eb9e8a52-0fec-4a10-8d16-af3b32874933@ANTIDDOS5.5GTOCDOCAO.COM:443?security=tls&allowInsecure=1&sni=telegram.org#🇻🇳 Vietnam
+trojan://opentunnel.net-12qwe@nlt-1.optnl.com:443?security=tls&allowInsecure=1&sni=telegram.org#🇳🇱 Netherlands
+trojan://telegram-id-privatevpns@13.37.171.134:22222/?type=tcp&security=tls&allowInsecure=1&sni=telegram.org#🇫🇷 France
+trojan://telegram-id-privatevpns@13.43.247.55:22222/?type=tcp&security=tls&allowInsecure=1&sni=telegram.org#🇬🇧 United Kingdom
+trojan://telegram-id-privatevpns@3.78.68.161:22222/?type=tcp&security=tls&allowInsecure=1&sni=telegram.org#🇩🇪 Germany
+trojan://telegram-id-privatevpns@35.180.151.56:22222/?type=tcp&security=tls&allowInsecure=1&sni=telegram.org#🇫🇷 France
+trojan://telegram-id-privatevpns@51.21.92.221:22222/?type=tcp&security=tls&allowInsecure=1&sni=telegram.org#🇸🇪 Sweden
+trojan://telegram-id-privatevpns@54.228.244.31:22222/?type=tcp&security=tls&allowInsecure=1&sni=telegram.org#🇮🇪 Ireland
+trojan://vMbujq85mD@103.174.73.134:443/?type=tcp&security=tls&allowInsecure=1&sni=telegram.org#🇻🇳 Vietnam
+trojan://xxoo@138.197.5.103:443/?type=tcp&security=tls&allowInsecure=1&sni=telegram.org#🇺🇸 United States

@@ -248,3 +248,21 @@ vmess://eyJhZGQiOiAidXMtbjEuc3BlZWR5eXVuLmNvbSIsICJhaWQiOiAiMCIsICJhbGxvd0luc2Vj
 vmess://eyJhZGQiOiAiYmUxLXZtZXNzLnNzaG1heC54eXoiLCAiYWlkIjogIjAiLCAiYWxsb3dJbnNlY3VyZSI6ICIxIiwgImFscG4iOiAiIiwgImZwIjogImZpcmVmb3giLCAiaG9zdCI6ICJ2ay5jb20iLCAiaWQiOiAiZGUxNGUyMzItNTk2NS00MjIyLThjZGItMTkzZDg5ZDJmYjFiIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2NcdWRkZTdcdWQ4M2NcdWRkZWEgQmVsZ2l1bSIsICJzY3kiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICJ2ay5jb20iLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6IDJ9
 vmess://eyJhZGQiOiAiYmUxLXZtZXNzLnNzaG1heC54eXoiLCAiYWlkIjogIjAiLCAiYWxsb3dJbnNlY3VyZSI6IDEsICJhbHBuIjogIiIsICJmcCI6ICJmaXJlZm94IiwgImhvc3QiOiAidmsuY29tIiwgImlkIjogImRlMTRlMjMyLTU5NjUtNDIyMi04Y2RiLTE5M2Q4OWQyZmIxYiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MiLCAicG9ydCI6ICI4MCIsICJwcyI6ICJcdWQ4M2NcdWRkZTdcdWQ4M2NcdWRkZWEgQmVsZ2l1bSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAidmsuY29tIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAyfQ==
 vmess://eyJhZGQiOiAiaGRmeTZkMS5jcGlvbmxpbmUuY2MiLCAiYWlkIjogIjAiLCAiYWxsb3dJbnNlY3VyZSI6ICIxIiwgImFscG4iOiAiIiwgImZwIjogImZpcmVmb3giLCAiaG9zdCI6ICJ2ay5jb20iLCAiaWQiOiAiNDgwNGYxNGItYzFmOC00NTJkLWE2ZWMtZWZmMTQ5MGFlYWM5IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9sUmtHQ2tZUzlYNUdETkpZTVdYTjdrQ20zbEwiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IEZyYW5jZSIsICJzY3kiOiAiY2hhY2hhMjAtcG9seTEzMDUiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAidmsuY29tIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAyfQ==
+trojan://1bede996-c475-440b-a492-9cd57cbd3939@172.104.63.35:443?security=tls&allowInsecure=1&sni=vk.com#🇸🇬 Singapore
+trojan://27876_t7d7f4e3f@23.142.200.175:443/?type=tcp&security=tls&allowInsecure=1&sni=vk.com#🇺🇸 United States
+trojan://5bae27f5-3b8e-48f3-b91f-30fc680ea78f@103.154.62.22:443/?type=tcp&security=tls&allowInsecure=1&sni=vk.com#🇻🇳 Vietnam
+trojan://5bae27f5-3b8e-48f3-b91f-30fc680ea78f@103.154.63.16:443/?type=tcp&security=tls&allowInsecure=1&sni=vk.com#🇻🇳 Vietnam
+trojan://94744160-abe9-44ca-b085-0f6994e1944e@18.180.193.232:567?security=tls&allowInsecure=1&sni=vk.com#🇯🇵 Japan
+trojan://94744160-abe9-44ca-b085-0f6994e1944e@52.195.13.70:567?security=tls&allowInsecure=1&sni=vk.com#🇯🇵 Japan
+trojan://94744160-abe9-44ca-b085-0f6994e1944e@a22.zgc.su:567?security=tls&allowInsecure=1&sni=vk.com#🇯🇵 Japan
+trojan://94744160-abe9-44ca-b085-0f6994e1944e@a4.zgc.su:567?security=tls&allowInsecure=1&sni=vk.com#🇯🇵 Japan
+trojan://eb9e8a52-0fec-4a10-8d16-af3b32874933@ANTIDDOS5.5GTOCDOCAO.COM:443?security=tls&allowInsecure=1&sni=vk.com#🇻🇳 Vietnam
+trojan://opentunnel.net-12qwe@nlt-1.optnl.com:443?security=tls&allowInsecure=1&sni=vk.com#🇳🇱 Netherlands
+trojan://telegram-id-privatevpns@13.37.171.134:22222/?type=tcp&security=tls&allowInsecure=1&sni=vk.com#🇫🇷 France
+trojan://telegram-id-privatevpns@13.43.247.55:22222/?type=tcp&security=tls&allowInsecure=1&sni=vk.com#🇬🇧 United Kingdom
+trojan://telegram-id-privatevpns@3.78.68.161:22222/?type=tcp&security=tls&allowInsecure=1&sni=vk.com#🇩🇪 Germany
+trojan://telegram-id-privatevpns@35.180.151.56:22222/?type=tcp&security=tls&allowInsecure=1&sni=vk.com#🇫🇷 France
+trojan://telegram-id-privatevpns@51.21.92.221:22222/?type=tcp&security=tls&allowInsecure=1&sni=vk.com#🇸🇪 Sweden
+trojan://telegram-id-privatevpns@54.228.244.31:22222/?type=tcp&security=tls&allowInsecure=1&sni=vk.com#🇮🇪 Ireland
+trojan://vMbujq85mD@103.174.73.134:443/?type=tcp&security=tls&allowInsecure=1&sni=vk.com#🇻🇳 Vietnam
+trojan://xxoo@138.197.5.103:443/?type=tcp&security=tls&allowInsecure=1&sni=vk.com#🇺🇸 United States
