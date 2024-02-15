@@ -474,4 +474,15 @@ hysteria://51.158.54.46:55396?alpn=h3&auth=dongtaiwang.com&downmbps=55&insecure=
 hysteria://www.dtku40.xyz:18490?alpn=h3&auth=dongtaiwang.com&downmbps=100&fastopen=1&fromyaml=1&insecure=1&peer=vk.com&protocol=udp&upmbps=80#🇹🇼 Taiwan
 hysteria://www.dtku50.xyz:11229?alpn=h3&auth=dongtaiwang.com&insecure=1&peer=vk.com&protocol=udp#🇹🇼 Taiwan
 hysteria://www2.dtku48.xyz:22334?alpn=h3&auth=dongtaiwang.com&downmbps=80&fastopen=1&insecure=1&mport=22334&peer=vk.com&protocol=udp&upmbps=50#🇹🇼 Taiwan
+hysteria://www4.dtku49.xyz:22334?alpn=h3&auth=dongtaiwang.com&downmbps=55&fromyaml=1&insecure=1&peer=vk.com&protocol=udp&upmbps=11#🇹🇼 Taiwanhysteria://1.162.134.176:18490?alpn=h3&auth=dongtaiwang.com&downmbps=55&fastopen=1&insecure=1&obfs=&peer=vk.com&protocol=udp&upmbps=11#🇹🇼 Taiwan
+hysteria://108.181.22.239:39967?alpn=h3&auth=dongtaiwang.com&fastopen=1&insecure=1&peer=vk.com&protocol=udp#🇺🇸 United States
+hysteria://108.181.5.130:39967?alpn=h3&auth=dongtaiwang.com&insecure=1&peer=vk.com#🇺🇸 United States
+hysteria://167.160.91.114:41189?alpn=h3&auth=bWAwIqINo7XDm1fUlXQGBifVIXoYs1ylgVKqWFKzK1XyDKuwNF&downmbps=100&fromyaml=1&insecure=1&peer=vk.com&protocol=udp&upmbps=80#🇺🇸 United States
+hysteria://167.160.91.115:41189?alpn=h3&auth=bWAwIqINo7XDm1fUlXQGBifVIXoYs1ylgVKqWFKzK1XyDKuwNF&downmbps=55&insecure=1&peer=vk.com&upmbps=11#🇺🇸 United States
+hysteria://173.234.25.52:48919?alpn=h3&auth=dongtaiwang.com&downmbps=100&fastopen=1&fromyaml=1&insecure=1&peer=vk.com&protocol=udp&upmbps=80#🇺🇸 United States
+hysteria://173.234.25.53:48919?alpn=h3&auth=dongtaiwang.com&downmbps=100&fastopen=1&fromyaml=1&insecure=1&peer=vk.com&protocol=udp&upmbps=80#🇺🇸 United States
+hysteria://51.158.54.46:55396?alpn=h3&auth=dongtaiwang.com&downmbps=55&insecure=1&peer=vk.com&upmbps=11#🇫🇷 France
+hysteria://www.dtku40.xyz:18490?alpn=h3&auth=dongtaiwang.com&downmbps=100&fastopen=1&fromyaml=1&insecure=1&peer=vk.com&protocol=udp&upmbps=80#🇹🇼 Taiwan
+hysteria://www.dtku50.xyz:11229?alpn=h3&auth=dongtaiwang.com&insecure=1&peer=vk.com&protocol=udp#🇹🇼 Taiwan
+hysteria://www2.dtku48.xyz:22334?alpn=h3&auth=dongtaiwang.com&downmbps=80&fastopen=1&insecure=1&mport=22334&peer=vk.com&protocol=udp&upmbps=50#🇹🇼 Taiwan
 hysteria://www4.dtku49.xyz:22334?alpn=h3&auth=dongtaiwang.com&downmbps=55&fromyaml=1&insecure=1&peer=vk.com&protocol=udp&upmbps=11#🇹🇼 Taiwan
