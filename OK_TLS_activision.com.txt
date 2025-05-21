@@ -1,3 +1,5 @@
+vmess://eyJhZGQiOiAiNTcuMTI5LjY0LjIzOCIsICJhaWQiOiAiMCIsICJhbGxvd0luc2VjdXJlIjogMSwgImhvc3QiOiAia2FwZWxsZW5nLmNvbSIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRmNyBGcmFuY2UiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICJhY3RpdmlzaW9uLmNvbSJ9
+trojan://008a7900-34de-11f0-9f02-1239d0255272@51.210.182.170:443?security=tls&sni=activision.com&allowInsecure=1#🇫🇷 France
 trojan://FiSo7J6vfS@51.68.13.106:1935/?type=tcp&security=tls&sni=activision.com&allowInsecure=1#🇬🇧 United Kingdom
 trojan://I46LpSIM1f@194.164.57.9:1935/?type=tcp&security=tls&sni=activision.com&allowInsecure=1#🇩🇪 Germany
 trojan://OLq0FfOlp7@141.227.160.88:1935/?type=tcp&security=tls&sni=activision.com&allowInsecure=1#🇫🇷 France
