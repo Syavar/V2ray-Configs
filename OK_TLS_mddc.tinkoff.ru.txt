@@ -1,1 +1,8 @@
+trojan://f389ed926e512e15f382dc3804029474@160.16.132.38:4937?allowInsecure=1&sni=mddc.tinkoff.ru&insecure=1&type=tcp&security=tls#%F0%9F%8C%90%20Unknown
+vless://1609d73a-aad5-4215-b25d-908e3e3412de@83.166.255.111:2053?alpn=h2,http/1.1&encryption=none&fp=chrome&path=/api&security=tls&sni=mddc.tinkoff.ru&type=ws&allowInsecure=1&insecure=1#%F0%9F%8C%90%20Unknown
+vless://1b8650d4-13b9-03e8-a9f7-670df3afa6b6@212.193.153.187:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=lk-cdn.deploy-assure.ru&path=//&security=tls&sni=mddc.tinkoff.ru&type=ws&allowInsecure=1&insecure=1#%F0%9F%8C%90%20Unknown
+trojan://lEjtI3pFYfU7O1UYozJcfZV5K6Fwfths@64.74.163.118:58536?allowInsecure=1&headerType=none&insecure=1&security=tls&type=tcp&sni=mddc.tinkoff.ru#%F0%9F%8C%90%20Unknown
+trojan://e6a2e8dc4d124efebc970add718de37b@vpn.aprux.ru:443?allowinsecure=0&alpn=h2,http/1.1&security=tls&sni=mddc.tinkoff.ru&type=tcp&allowInsecure=1&insecure=1#%F0%9F%8C%90%20Unknown
+trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:34818?security=tls&sni=mddc.tinkoff.ru&type=tcp&allowInsecure=1&insecure=1#%F0%9F%8C%90%20Unknown
+trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?allowInsecure=1&fp=random&security=tls&sni=mddc.tinkoff.ru&type=tcp&insecure=1#%F0%9F%8C%90%20Unknown
 hy2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=mddc.tinkoff.ru&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%8C%90%20Unknown
