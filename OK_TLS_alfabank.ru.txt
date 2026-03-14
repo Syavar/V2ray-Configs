@@ -1,0 +1,1 @@
+hy2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=alfabank.ru&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%8C%90%20Unknown
