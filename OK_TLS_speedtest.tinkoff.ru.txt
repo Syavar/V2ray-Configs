@@ -1,10 +1,6 @@
 trojan://lEjtI3pFYfU7O1UYozJcfZV5K6Fwfths@64.74.163.118:58536?allowInsecure=1&headerType=none&insecure=1&security=tls&type=tcp&sni=speedtest.tinkoff.ru#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
 hy2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=speedtest.tinkoff.ru&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
 vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@144.31.131.42:443?allowInsecure=1&encryption=none&security=tls&sni=speedtest.tinkoff.ru&insecure=1&type=tcp#%F0%9F%87%A6%F0%9F%87%B1%20Albania
-vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@151.241.226.194:2039?encryption=none&fp=chrome&packetEncoding=xudp&path=/&security=tls&sni=speedtest.tinkoff.ru&type=ws&allowInsecure=1&insecure=1#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye
-vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@us.mediakit-ozon.ru:2039?path=/&security=tls&sni=speedtest.tinkoff.ru&type=ws&allowInsecure=1&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-trojan://a5inYFE%3DJGV89%2BhjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&sni=speedtest.tinkoff.ru&allowInsecure=1&insecure=1&type=tcp#%F0%9F%87%B3%F0%9F%87%B4%20Norway
 hy2://5046SHWqk6@91.132.51.160:844?insecure=1&sni=speedtest.tinkoff.ru&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates
 vless://1609d73a-aad5-4215-b25d-908e3e3412de@83.166.255.111:2053?allowInsecure=1&alpn=h2,http/1.1&encryption=none&fp=chrome&insecure=1&path=/api&security=tls&sni=speedtest.tinkoff.ru&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://47d149e3-8ba6-0bb8-b91f-3dd9771fa7cc@212.193.157.118:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=lk-cdn.deploy-assure.ru&path=//&security=tls&sni=speedtest.tinkoff.ru&type=ws&allowInsecure=1&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://bb1deb35-8580-07d0-b8f9-a8681669d6f5@212.193.153.187:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=lk-cdn.deploy-assure.ru&path=//&security=tls&sni=speedtest.tinkoff.ru&type=ws&allowInsecure=1&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia
+vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@us.mediakit-ozon.ru:2039?allowInsecure=1&insecure=1&path=/&security=tls&sni=speedtest.tinkoff.ru&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
