@@ -1,6 +1,5 @@
-trojan://lEjtI3pFYfU7O1UYozJcfZV5K6Fwfths@64.74.163.118:58536?allowInsecure=1&headerType=none&insecure=1&security=tls&type=tcp&sni=t.me#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-hy2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=t.me&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@144.31.131.42:443?allowInsecure=1&encryption=none&security=tls&sni=t.me&insecure=1&type=tcp#%F0%9F%87%A6%F0%9F%87%B1%20Albania
-hy2://5046SHWqk6@91.132.51.160:844?insecure=1&sni=t.me&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates
-vless://1609d73a-aad5-4215-b25d-908e3e3412de@83.166.255.111:2053?allowInsecure=1&alpn=h2,http/1.1&encryption=none&fp=chrome&insecure=1&path=/api&security=tls&sni=t.me&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@us.mediakit-ozon.ru:2039?allowInsecure=1&insecure=1&path=/&security=tls&sni=t.me&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://1b451930-1211-4ffe-90a8-80ca5bb801b4@47.76.240.111:443?host=n1761184278.74qxv.top&path=/1b451930-1211-4ffe-90a8-80ca5bb801b4&security=tls&sni=t.me&type=ws&allowInsecure=1&insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong
+trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.106.99:2001?allowInsecure=1&sni=t.me&insecure=1&type=tcp&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.60.191:22224?path=/telegram-channel-vlessconfig&security=tls&sni=t.me&type=ws&allowInsecure=1&insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France
+trojan://telegram-id-privatevpns@15.224.60.191:22222?alpn=http/1.1&headerType=none&security=tls&sni=t.me&type=tcp&allowInsecure=1&insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France
+trojan://telegram-id-directvpn@15.224.60.191:22223?alpn=http/1.1&headerType=none&security=tls&sni=t.me&type=tcp&allowInsecure=1&insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France
