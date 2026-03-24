@@ -1,5 +1,6 @@
-vless://1b451930-1211-4ffe-90a8-80ca5bb801b4@47.76.240.111:443?host=n1761184278.74qxv.top&path=/1b451930-1211-4ffe-90a8-80ca5bb801b4&security=tls&sni=speedtest.tinkoff.ru&type=ws&allowInsecure=1&insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.106.99:2001?allowInsecure=1&sni=speedtest.tinkoff.ru&insecure=1&type=tcp&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.60.191:22224?path=/telegram-channel-vlessconfig&security=tls&sni=speedtest.tinkoff.ru&type=ws&allowInsecure=1&insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France
-trojan://telegram-id-privatevpns@15.224.60.191:22222?alpn=http/1.1&headerType=none&security=tls&sni=speedtest.tinkoff.ru&type=tcp&allowInsecure=1&insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France
-trojan://telegram-id-directvpn@15.224.60.191:22223?alpn=http/1.1&headerType=none&security=tls&sni=speedtest.tinkoff.ru&type=tcp&allowInsecure=1&insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.162.163:22224?path=/telegram-channel-vlessconfig&security=tls&sni=speedtest.tinkoff.ru&type=ws&allowInsecure=1&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany
+trojan://telegram-id-directvpn@63.177.162.163:22223?alpn=http/1.1&headerType=none&security=tls&sni=speedtest.tinkoff.ru&type=tcp&allowInsecure=1&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany
+trojan://telegram-id-privatevpns@51.44.2.160:22222?alpn=http/1.1&headerType=none&security=tls&sni=speedtest.tinkoff.ru&type=tcp&allowInsecure=1&insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France
+trojan://telegram-id-privatevpns@63.177.162.163:22222?alpn=http/1.1&headerType=none&security=tls&sni=speedtest.tinkoff.ru&type=tcp&allowInsecure=1&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany
+trojan://telegram-id-directvpn@51.44.2.160:22223?alpn=http/1.1&headerType=none&security=tls&sni=speedtest.tinkoff.ru&type=tcp&allowInsecure=1&insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.2.160:22224?path=/telegram-channel-vlessconfig&security=tls&sni=speedtest.tinkoff.ru&type=ws&allowInsecure=1&insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France
