@@ -1,8 +1,9 @@
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@188.126.76.159:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=alfabank.ru&type=ws&insecure=1&security=tls#%F0%9F%87%B8%F0%9F%87%AA%20Sweden
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@149.33.0.109:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=alfabank.ru&type=ws&insecure=1&security=tls#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.102.234.18:22224?path=/telegram-channel-vlessconfig&security=tls&sni=alfabank.ru&type=ws&allowInsecure=1&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@8.210.35.208:443?fp=chrome&host=xianggang2.zqjsqapi.com&path=/proxy&security=tls&sni=alfabank.ru&type=ws&allowInsecure=1&insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong
-vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@8.217.179.217:443?fp=chrome&host=xianggang3.zqjsqapi.com&path=/proxy&security=tls&sni=alfabank.ru&type=ws&allowInsecure=1&insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong
 trojan://CH.bhf8hDm2xBeGwpKkZydLWz86K3OFH8q@91.149.239.220:10413?sni=alfabank.ru&allowInsecure=1&insecure=1&type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
 trojan://CH.bhf8hDm2xBeGwpKkZydLWz86K3OFH8q@91.149.239.153:10413?sni=alfabank.ru&allowInsecure=1&insecure=1&type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-trojan://t_XGlCTUx_ZgoObca7-Y%3DA2njNFoQigS0Q@81.29.149.51:14281?sni=alfabank.ru&allowInsecure=1&insecure=1&type=tcp&security=tls#%F0%9F%87%AE%F0%9F%87%B9%20Italy
+trojan://187dda4498be9ac4f28db939d5940185@160.16.124.17:4380?allowInsecure=1&sni=alfabank.ru&insecure=1&type=tcp&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan
+vless://3abff14b-b74f-4df5-a044-4c766c20d12f@itsea.osaip.net:443?encryption=none&fp=chrome&headerType=none&insecure=1&quicSecurity=none&security=tls&serviceName=violet&sni=alfabank.ru&type=grpc&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B9%20Italy
+vless://53821f3c-5b03-456a-89f3-f8379f130752@de12.abvpn.ru:443?encryption=none&fp=firefox&path=/websocket&security=tls&sni=alfabank.ru&type=ws&allowInsecure=1&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@8.210.35.208:443?allowInsecure=1&fp=chrome&host=xianggang2.zqjsqapi.com&insecure=1&path=/proxy&security=tls&sni=alfabank.ru&type=ws#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@8.217.179.217:443?allowInsecure=1&fp=chrome&host=xianggang3.zqjsqapi.com&insecure=1&path=/proxy&security=tls&sni=alfabank.ru&type=ws#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong
