@@ -1,9 +1,6 @@
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@188.126.76.159:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=google.com&type=ws&insecure=1&security=tls#%F0%9F%87%B8%F0%9F%87%AA%20Sweden
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@149.33.0.109:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=google.com&type=ws&insecure=1&security=tls#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan
-trojan://CH.bhf8hDm2xBeGwpKkZydLWz86K3OFH8q@91.149.239.220:10413?sni=google.com&allowInsecure=1&insecure=1&type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-trojan://CH.bhf8hDm2xBeGwpKkZydLWz86K3OFH8q@91.149.239.153:10413?sni=google.com&allowInsecure=1&insecure=1&type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-trojan://187dda4498be9ac4f28db939d5940185@160.16.124.17:4380?allowInsecure=1&sni=google.com&insecure=1&type=tcp&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan
-vless://3abff14b-b74f-4df5-a044-4c766c20d12f@itsea.osaip.net:443?encryption=none&fp=chrome&headerType=none&insecure=1&quicSecurity=none&security=tls&serviceName=violet&sni=google.com&type=grpc&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B9%20Italy
-vless://53821f3c-5b03-456a-89f3-f8379f130752@de12.abvpn.ru:443?encryption=none&fp=firefox&path=/websocket&security=tls&sni=google.com&type=ws&allowInsecure=1&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@8.210.35.208:443?allowInsecure=1&fp=chrome&host=xianggang2.zqjsqapi.com&insecure=1&path=/proxy&security=tls&sni=google.com&type=ws#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong
-vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@8.217.179.217:443?allowInsecure=1&fp=chrome&host=xianggang3.zqjsqapi.com&insecure=1&path=/proxy&security=tls&sni=google.com&type=ws#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?encryption=none&host=cdn.lovecrafty.link&path=/stream/updates/b66b78d7/019dfd7f-0777-6283-7287-911777c3720f4&security=tls&sni=google.com&type=ws&allowInsecure=1&insecure=1#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.183.179.231:22224?path=/telegram-channel-vlessconfig&security=tls&sni=google.com&type=ws&allowInsecure=1&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany
+trojan://telegram-id-directvpn@63.183.179.231:22223?alpn=http/1.1&headerType=none&security=tls&sni=google.com&type=tcp&allowInsecure=1&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany
+trojan://telegram-id-privatevpns@63.183.179.231:22222?alpn=http/1.1&headerType=none&security=tls&sni=google.com&type=tcp&allowInsecure=1&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vless://c3f112fc-1041-Fade-b85c-5ed478daeeb9@195.209.82.149:443?encryption=none&host=s28233.cdn.ngenix.net&path=/&security=tls&sni=google.com&type=ws&allowInsecure=1&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.201.25.203:443?insecure=1&sni=google.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%AE%F0%9F%87%B3%20India
