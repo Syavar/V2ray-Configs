@@ -2,5 +2,3 @@ vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?encryption=none&ho
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.183.179.231:22224?path=/telegram-channel-vlessconfig&security=tls&sni=speedtest.tinkoff.ru&type=ws&allowInsecure=1&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany
 trojan://telegram-id-directvpn@63.183.179.231:22223?alpn=http/1.1&headerType=none&security=tls&sni=speedtest.tinkoff.ru&type=tcp&allowInsecure=1&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany
 trojan://telegram-id-privatevpns@63.183.179.231:22222?alpn=http/1.1&headerType=none&security=tls&sni=speedtest.tinkoff.ru&type=tcp&allowInsecure=1&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://c3f112fc-1041-Fade-b85c-5ed478daeeb9@195.209.82.149:443?encryption=none&host=s28233.cdn.ngenix.net&path=/&security=tls&sni=speedtest.tinkoff.ru&type=ws&allowInsecure=1&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.201.25.203:443?insecure=1&sni=speedtest.tinkoff.ru&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%AE%F0%9F%87%B3%20India
