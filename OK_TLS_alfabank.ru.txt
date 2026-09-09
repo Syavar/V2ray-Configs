@@ -1,9 +1,4 @@
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-001.fastervpn.world:443?insecure=1&sni=alfabank.ru&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@43.203.252.104:443?insecure=1&sni=alfabank.ru&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea
-hy2://28a91bb2-51fe-48e1-9865-ec8bc9e48890@204.152.221.119:4434?insecure=1&sni=alfabank.ru&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://XpnTeam-66@199.232.78.160:443?allowInsecure=1&alpn=http/1.1&encryption=none&fp=chrome&host=Appxdn.global.ssl.fastly.net&insecure=1&path=/&security=tls&sni=alfabank.ru&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://95b5d1d0-a878-4a52-bf2a-c8e323457b02@k2.cloud--vpn.site:443?fp=firefox&host=c12.com&path=/&security=tls&sni=alfabank.ru&type=ws&allowInsecure=1&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-vless://1f507f26-949e-4dab-9191-0d116e2bd8aa@tr2.wba-pn.ru:443?fp=chrome&security=tls&sni=alfabank.ru&type=ws&allowInsecure=1&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia
-trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&fp=chrome&host=op-1.firecone.eu&path=/femboyporn--femboyporn--femboyporn--femboyporn/free-trojan-node/only-smux-supported&security=tls&sni=alfabank.ru&type=ws&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany
-hy2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=alfabank.ru&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea
-hy2://501d6346-0b0d-44a7-8847-32464045cdf3@78.159.246.200:8465?insecure=1&sni=alfabank.ru&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%B7%F0%9F%87%BA%20Russia
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-002.fastervpn.world:443?insecure=1&sni=alfabank.ru&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%8C%90%20Unknown
+vless://f081b5e2-f3a0-4ef5-833b-1ea59e0797b6@fcs013.getdcz.me:443?encryption=none&fp=chrome&host=fcs013.getdcz.me&packetEncoding=xudp&path=/6d2fed050b30&security=tls&sni=alfabank.ru&type=ws&allowInsecure=1&insecure=1#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
+trojan://d742752c-4231-4695-801e-f06d77f0f277@hk04.qianmoip.win:52224?allowInsecure=1&sni=alfabank.ru&insecure=1&type=tcp&security=tls#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong
+hy2://5beff945-adaa-492f-85c6-8aaf5df6cfa5@91.240.86.70:22443?insecure=1&sni=alfabank.ru&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%B7%F0%9F%87%BA%20Russia
